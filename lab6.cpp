@@ -8,7 +8,7 @@ void takeInput()
 {
     int i,j;
  
-    cout<<"Enter the number of villages: ";
+    cout<<"Enter the number of cities: ";
     cin>>n;
  
     cout<<"\nEnter the Cost Matrix\n";
