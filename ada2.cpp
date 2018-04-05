@@ -1,3 +1,6 @@
+//BFS and DFS
+
+
 #include<stdio.h>
 int a[20][20], q[20],visited[20],n,i,j,f=0,r=-1,reach[20],count;
 void bfs(int v) 
