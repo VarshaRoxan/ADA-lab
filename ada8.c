@@ -1,3 +1,6 @@
+//Dijastra's algorithm
+
+
 #include "stdio.h"
 
 #define infinity 999
