@@ -1,3 +1,6 @@
+//N-Queen's problem
+
+
 #include<stdio.h>
 #include<math.h>
 #include<stdlib.h>
