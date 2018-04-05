@@ -1,3 +1,6 @@
+//KMP algorithm
+
+
 #include<stdio.h>
 #include<string.h>
 
