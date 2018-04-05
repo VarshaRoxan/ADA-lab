@@ -3,7 +3,6 @@
 
 
 #include<stdio.h>
-#include<conio.h>
 int a[10][10],n,indegre[10];
 void find_indegre()
 { int j,i,sum;
@@ -43,7 +42,6 @@ printf("%d ",t[i]);
 void main()
 {
 int i,j;
-clrscr();
 printf("Enter number of jobs:");
 scanf("%d",&n);
 printf("\nEnter the adjacency matrix:\n");
@@ -67,7 +65,6 @@ getch();
 
 
 # include <stdio.h>
-# include <conio.h>
 int n,a[10][10],p[10][10];
 void path()
 {
@@ -83,7 +80,6 @@ if(p[i][k]==1&&p[k][j]==1) p[i][j]=1;
 void main()
 {
 int i,j;
-clrscr();
 printf("Enter the number of nodes:");
 scanf("%d",&n);
 printf("\nEnter the adjacency matrix:\n");
