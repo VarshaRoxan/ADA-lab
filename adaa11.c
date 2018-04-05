@@ -1,3 +1,6 @@
+//Subset algorithm
+
+
 #include<stdio.h>
 #include<conio.h>
 int s[10] , x[10],d ;
